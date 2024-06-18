@@ -1,0 +1,1 @@
+There is a code for a conversational chatbot where you can set up a conversation and speak questions to the computer, and it will answer you. Additionally, there is a speech translation code that can take what you say, convert it into text, display it, and translate it into another language.
